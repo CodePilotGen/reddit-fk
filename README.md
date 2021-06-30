@@ -1,7 +1,7 @@
 flask\_reddit
 =============
 
-**flask_reddit** is an extendable + minimalist [Reddit](http://reddit.com) clone.
+
 
 This was built so beginners who want a standard CRUD + reddit-like application
 can quickly get to work.
@@ -129,5 +129,4 @@ the server configs located in `server` directory and the `run_gunicorn.sh` file.
 *Refer to the flask project configuration options to understand what to put in your own
 config.py file.*
 
-Do not hesiate to <a href="http://codelucas.com">contact</a> me <Lucas Ou> for help or concerns.
 
